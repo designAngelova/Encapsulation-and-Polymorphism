@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BankofKurtovoKonare.Mortgage" Collapsed="true">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mortgage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankofKurtovoKonare.Loan" Collapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Loan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankofKurtovoKonare.Deposit" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Deposit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankofKurtovoKonare.Acount" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAABAAAAAAAAAAgACAAIAAEAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Acount.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BankofKurtovoKonare.TestBank" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>TestBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BankofKurtovoKonare.IAcount" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IAcount.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BankofKurtovoKonare.Customers" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Customers.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
